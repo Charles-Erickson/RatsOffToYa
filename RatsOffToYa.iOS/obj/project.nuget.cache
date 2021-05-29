@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kP/WNYD3w1Yx279t3JysRupyxOQPZY2d5Mab7Llw+bp32IK0w/UrCnvChWi0MYadKQAw+ozOB5Kle3Ty/NqLtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cse62\\source\\repos\\RatsOffToYa\\RatsOffToYa\\RatsOffToYa.iOS\\RatsOffToYa.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
