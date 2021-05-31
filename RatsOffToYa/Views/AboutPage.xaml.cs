@@ -10,6 +10,7 @@ namespace RatsOffToYa.Views
         public AboutPage()
         {
             InitializeComponent();
+            //RatsEntry.text = '0';
         }
     }
 }

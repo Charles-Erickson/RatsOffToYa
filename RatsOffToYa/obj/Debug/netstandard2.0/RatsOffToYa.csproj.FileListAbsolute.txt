@@ -2,7 +2,6 @@ C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\bin\Debug\netsta
 C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\bin\Debug\netstandard2.0\RatsOffToYa.dll
 C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\bin\Debug\netstandard2.0\ref\RatsOffToYa.dll
 C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\bin\Debug\netstandard2.0\RatsOffToYa.pdb
-C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\obj\Debug\netstandard2.0\RatsOffToYa.csprojAssemblyReference.cache
 C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
@@ -17,3 +16,4 @@ C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\obj\Debug\netsta
 C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\obj\Debug\netstandard2.0\RatsOffToYa.dll
 C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\obj\Debug\netstandard2.0\ref\RatsOffToYa.dll
 C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\obj\Debug\netstandard2.0\RatsOffToYa.pdb
+C:\Users\cse62\source\repos\RatsOffToYa\RatsOffToYa\RatsOffToYa\obj\Debug\netstandard2.0\RatsOffToYa.csprojAssemblyReference.cache
